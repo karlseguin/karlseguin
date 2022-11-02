@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi.
 
-<!--
-**karlseguin/karlseguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently taking a gap year (or two, or three), but I'm open to hearing about interesting remote opportunities (I'm in GMT +8)
 
-Here are some ideas to get you started:
+#### I'm currently working on:
+- [karlseguin/exws](https://github.com/karlseguin/exws) - A minimalist Websocket server for Elixir
+- [goblgobl/authen](https://github.com/goblgobl/authen) - An authentication enhancement service
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### My most popular repos are:
+- [karlseguin/ccache](https://github.com/karlseguin/ccache) - An LRU caching library for Go
+- [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) - The Little Go Book
+- [karlseguin/the-little-redis-book](https://github.com/karlseguin/the-little-redis-book) - The Little Redis Book
