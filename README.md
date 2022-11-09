@@ -3,7 +3,7 @@
 I'm currently taking a gap year (or two, or three), but I'm open to hearing about interesting remote opportunities (I'm in GMT +8)
 
 #### I'm currently working on:
-- [karlseguin/exws](https://github.com/karlseguin/exws) - A minimalist Websocket server for Elixir
+- [karlseguin/exws](https://github.com/karlseguin/exws) - A minimalist Websocket server for Elixir (+[channel library] (https://github.com/karlseguin/exws_channels))
 - [goblgobl/authen](https://github.com/goblgobl/authen) - An authentication enhancement service
 
 
