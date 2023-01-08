@@ -4,6 +4,8 @@ I'm currently taking a gap year (or two, or three), but I'm open to hearing abou
 
 #### I'm currently working on:
 - [karlseguin/exws](https://github.com/karlseguin/exws) - A minimalist Websocket server for Elixir (+ [channel library](https://github.com/karlseguin/exws_channels))
+- [karlseguin/dcache](https://github.com/karlseguin/dcache) - A fast caching library for Elixir
+- [goblgobl/assets](https://github.com/goblgobl/assets) - A performance-focused static asset proxy
 - [goblgobl/authen](https://github.com/goblgobl/authen) - An authentication enhancement service
 
 
