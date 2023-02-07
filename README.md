@@ -3,7 +3,7 @@
 I'm currently taking a gap year (or two, or three), but I'm open to hearing about interesting remote opportunities (I'm in GMT +8)
 
 #### I'm currently working on:
-- [goblgobl/sqlkite](https://github.com/goblgobl/sqlkite) - An http interface for building applications with sqlite
+- [sqlkite/sqlkite](https://github.com/sqlkite/sqlkite) - An http interface for building applications with sqlite
 
 #### My more recent projects:
 - [karlseguin/exws](https://github.com/karlseguin/exws) - A minimalist Websocket server for Elixir (+ [channel library](https://github.com/karlseguin/exws_channels))
