@@ -8,6 +8,7 @@ I'm currently taking a gap year (or two, or three), but I'm open to hearing abou
 #### My more recent projects:
 - [karlseguin/exws](https://github.com/karlseguin/exws) - A minimalist Websocket server for Elixir (+ [channel library](https://github.com/karlseguin/exws_channels))
 - [karlseguin/dcache](https://github.com/karlseguin/dcache) - A fast caching library for Elixir
+- [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A Websocket server for Zig
 - [goblgobl/assets](https://github.com/goblgobl/assets) - A performance-focused static asset proxy
 - [goblgobl/authen](https://github.com/goblgobl/authen) - An authentication enhancement service
 
