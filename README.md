@@ -4,7 +4,7 @@ I'm currently taking a gap year (or two, or three), but I'm open to hearing abou
 
 #### I'm currently working on:
 - [sqlkite/sqlkite](https://github.com/sqlkite/sqlkite) - An http interface for building applications with sqlite
-- [goblgobl/autocomplete](https://github.com/goblgobl/autocompete) - A fast but simple autocomplete service written Zig
+- [goblgobl/autocomplete](https://github.com/goblgobl/autocomplete) - A fast but simple autocomplete service written Zig
 
 #### My more recent projects:
 - [karlseguin/exws](https://github.com/karlseguin/exws) - A minimalist Websocket server for Elixir (+ [channel library](https://github.com/karlseguin/exws_channels))
