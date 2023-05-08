@@ -5,6 +5,7 @@ I'm currently working on a variety of Zig projects:
 - [websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket server
 - [logz.zig](https://github.com/karlseguin/log.zig) - Structured logger
 - [zqlite.zig](https://github.com/karlseguin/zqlite.zig) - A thin wrapper for sqlite
+- [zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) - A thin wrapper for duckdb
 - [validate.zig](https://github.com/karlseguin/validate.zig) - A validation library
 
 
