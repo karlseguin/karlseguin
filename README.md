@@ -7,6 +7,7 @@ I'm currently working on a variety of Zig projects:
 - [zqlite.zig](https://github.com/karlseguin/zqlite.zig) - A thin wrapper for sqlite
 - [zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) - A thin wrapper for duckdb
 - [validate.zig](https://github.com/karlseguin/validate.zig) - A validation library
+- [cache.zig](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache
 
 
 I also have a few Elixir libraries you might find useful:
