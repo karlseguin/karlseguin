@@ -8,6 +8,7 @@ I'm currently working on a variety of Zig projects:
 - [zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) - A thin wrapper for duckdb
 - [validate.zig](https://github.com/karlseguin/validate.zig) - A validation library
 - [cache.zig](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache
+- [singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression
 - [pondz](https://github.com/pondzdev/pondz) - WIP DuckDB query API
 
 
