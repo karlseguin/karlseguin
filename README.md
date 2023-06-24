@@ -10,7 +10,7 @@ I'm currently working on a variety of Zig projects:
 - [validate.zig](https://github.com/karlseguin/validate.zig) - A validation library
 - [cache.zig](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache
 - [singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression
-- [string_builder.zig](https://github.com/karlseguin/string_builder.zig) - A pooable string builder (aka string buffer)
+- [string_builder.zig](https://github.com/karlseguin/string_builder.zig) - A poolable string builder (aka string buffer)
 
 
 I also have a few Elixir libraries you might find useful:
