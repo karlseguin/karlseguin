@@ -1,6 +1,7 @@
 ### Hi.
 
 I'm currently working on a variety of Zig projects:
+- [aolium-api](https://github.com/karlseguin/aolium-api) - a blogging / link sharing platform
 - [duckdb-proxy](https://github.com/pondzdev/duckdb-proxy) - An HTTP proxy for DuckDB
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
 - [websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket server
@@ -10,7 +11,7 @@ I'm currently working on a variety of Zig projects:
 - [validate.zig](https://github.com/karlseguin/validate.zig) - A validation library
 - [cache.zig](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache
 - [singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression
-- [string_builder.zig](https://github.com/karlseguin/string_builder.zig) - A poolable string builder (aka string buffer)
+- [buffer.zig](https://github.com/karlseguin/buffer.zig) - A poolable string builder (aka string buffer)
 
 
 I also have a few Elixir libraries you might find useful:
