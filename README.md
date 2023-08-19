@@ -5,6 +5,7 @@ I'm currently working on a variety of Zig projects:
 - [duckdb-proxy](https://github.com/pondzdev/duckdb-proxy) - An HTTP proxy for DuckDB
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
 - [websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket server
+- [smtp_client.zig](https://github.com/karlseguin/smtp_client.zig) - An SMTP client
 - [logz.zig](https://github.com/karlseguin/log.zig) - Structured logger
 - [zqlite.zig](https://github.com/karlseguin/zqlite.zig) - A thin wrapper for sqlite
 - [zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) - A thin wrapper for duckdb
