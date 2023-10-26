@@ -1,6 +1,7 @@
 ### Hi.
 
 I'm currently working on a variety of Zig projects:
+- [pg.zig](https://github.com/karlseguin/pg.zig) - native PostgreSQL driver
 - [aolium-api](https://github.com/karlseguin/aolium-api) - a blogging / link sharing platform
 - [duckdb-proxy](https://github.com/pondzdev/duckdb-proxy) - An HTTP proxy for DuckDB
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
