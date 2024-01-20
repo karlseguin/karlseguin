@@ -4,8 +4,6 @@ I'm currently working on a variety of Zig projects:
 - [metrics.zig](https://github.com/karlseguin/metrics.zig) - Prometheus metrics library
 - [zul](https://github.com/karlseguin/zul) - zig utility library
 - [pg.zig](https://github.com/karlseguin/pg.zig) - native PostgreSQL driver
-- [aolium-api](https://github.com/karlseguin/aolium-api) - a blogging / link sharing platform
-- [duckdb-proxy](https://github.com/pondzdev/duckdb-proxy) - An HTTP proxy for DuckDB
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
 - [websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket server
 - [smtp_client.zig](https://github.com/karlseguin/smtp_client.zig) - An SMTP client
@@ -16,7 +14,8 @@ I'm currently working on a variety of Zig projects:
 - [cache.zig](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache
 - [singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression
 - [buffer.zig](https://github.com/karlseguin/buffer.zig) - A poolable string builder (aka string buffer)
-
+- [aolium-api](https://github.com/karlseguin/aolium-api) - a blogging / link sharing platform
+- [duckdb-proxy](https://github.com/pondzdev/duckdb-proxy) - An HTTP proxy for DuckDB
 
 I also have a few Elixir libraries you might find useful:
 - [exws](https://github.com/karlseguin/exws) - A minimalist Websocket server for Elixir (+ [channel library](https://github.com/karlseguin/exws_channels))
