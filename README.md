@@ -1,6 +1,7 @@
 ### Hi.
 
 I'm currently working on a variety of Zig projects:
+- [metrics.zig](https://github.com/karlseguin/metrics.zig) - Prometheus metrics library
 - [zul](https://github.com/karlseguin/zul) - zig utility library
 - [pg.zig](https://github.com/karlseguin/pg.zig) - native PostgreSQL driver
 - [aolium-api](https://github.com/karlseguin/aolium-api) - a blogging / link sharing platform
