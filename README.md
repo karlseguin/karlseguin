@@ -1,18 +1,18 @@
 ### Hi.
 
 I'm currently working on a variety of Zig projects:
-- [metrics.zig](https://github.com/karlseguin/metrics.zig) - Prometheus metrics library
-- [zul](https://github.com/karlseguin/zul) - zig utility library
 - [pg.zig](https://github.com/karlseguin/pg.zig) - native PostgreSQL driver
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
 - [websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket server
-- [smtp_client.zig](https://github.com/karlseguin/smtp_client.zig) - An SMTP client
 - [logz.zig](https://github.com/karlseguin/log.zig) - Structured logger
+- [metrics.zig](https://github.com/karlseguin/metrics.zig) - Prometheus metrics library
 - [zqlite.zig](https://github.com/karlseguin/zqlite.zig) - A thin wrapper for sqlite
 - [zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) - A thin wrapper for duckdb
-- [validate.zig](https://github.com/karlseguin/validate.zig) - A validation library
 - [cache.zig](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache
+- [smtp_client.zig](https://github.com/karlseguin/smtp_client.zig) - An SMTP client
+- [validate.zig](https://github.com/karlseguin/validate.zig) - A validation library
 - [singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression
+- [zul](https://github.com/karlseguin/zul) - zig utility library
 - [buffer.zig](https://github.com/karlseguin/buffer.zig) - A poolable string builder (aka string buffer)
 - [aolium-api](https://github.com/karlseguin/aolium-api) - a blogging / link sharing platform
 - [duckdb-proxy](https://github.com/pondzdev/duckdb-proxy) - An HTTP proxy for DuckDB
