@@ -1,6 +1,7 @@
 ### Hi.
 
-I'm currently working on a variety of Zig projects:
+I've been working on some Zig libraries and wrote [Learning Zig](https://www.openmymind.net/learning_zig/). Semi-retired, but always open to hearing about opportunities. Contact on [my blog](https://www.openmymind.net/).
+
 - [pg.zig](https://github.com/karlseguin/pg.zig) - native PostgreSQL driver
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
 - [websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket server
@@ -29,5 +30,3 @@ My most popular repos are:
 - [ccache](https://github.com/karlseguin/ccache) - An LRU caching library for Go
 - [the-little-go-book](https://github.com/karlseguin/the-little-go-book) - The Little Go Book
 - [the-little-redis-book](https://github.com/karlseguin/the-little-redis-book) - The Little Redis Book
-
-You made it all the way here? Might as well check out [my blog](https://www.openmymind.net/).
