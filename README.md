@@ -1,6 +1,8 @@
 ### Hi.
 
-I've been working on some Zig libraries and wrote [Learning Zig](https://www.openmymind.net/learning_zig/). Semi-retired, but always open to hearing about opportunities. Contact on [my blog](https://www.openmymind.net/).
+Currently focusing on [logdk](https://github.com/karlseguin/logdk), a log aggregation framework written in Zig and powered by DuckDB. 
+
+Otherwise, I've largely been writing Zig libraries. If you're interested in learning Zig, check out my [Learning Zig](https://www.openmymind.net/learning_zig/) series of blog posts.
 
 - [pg.zig](https://github.com/karlseguin/pg.zig) - native PostgreSQL driver
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
@@ -30,3 +32,5 @@ My most popular repos are:
 - [ccache](https://github.com/karlseguin/ccache) - An LRU caching library for Go
 - [the-little-go-book](https://github.com/karlseguin/the-little-go-book) - The Little Go Book
 - [the-little-redis-book](https://github.com/karlseguin/the-little-redis-book) - The Little Redis Book
+
+Semi-retired, but always open to hearing about opportunities. Contact on [my blog](https://www.openmymind.net/).
