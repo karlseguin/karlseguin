@@ -7,6 +7,7 @@ Otherwise, I've largely been writing Zig libraries. If you're interested in lear
 - [pg.zig](https://github.com/karlseguin/pg.zig) - native PostgreSQL driver
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
 - [websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket server
+- [mqttz](https://github.com/karlseguin/mqttz) - Allocation free, no sdlib required MQTT client
 - [logz.zig](https://github.com/karlseguin/log.zig) - Structured logger
 - [metrics.zig](https://github.com/karlseguin/metrics.zig) - Prometheus metrics library
 - [zqlite.zig](https://github.com/karlseguin/zqlite.zig) - A thin wrapper for sqlite
