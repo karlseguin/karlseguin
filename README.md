@@ -1,8 +1,6 @@
 ### Hi.
 
-Currently focusing on [logdk](https://github.com/karlseguin/logdk), a log aggregation framework written in Zig and powered by DuckDB. 
-
-Otherwise, I've largely been writing Zig libraries. If you're interested in learning Zig, check out my [Learning Zig](https://www.openmymind.net/learning_zig/) series of blog posts.
+Lately, I've largely been writing Zig libraries. If you're interested in learning Zig, check out my [Learning Zig](https://www.openmymind.net/learning_zig/) series of blog posts.
 
 - [pg.zig](https://github.com/karlseguin/pg.zig) - native PostgreSQL driver
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
