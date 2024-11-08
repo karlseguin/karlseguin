@@ -2,7 +2,7 @@
 
 Lately, I've largely been writing Zig libraries. If you're interested in learning Zig, check out my [Learning Zig](https://www.openmymind.net/learning_zig/) series of blog posts.
 
-- [pg.zig](https://github.com/karlseguin/pg.zig) - native PostgreSQL driver
+- [pg.zig](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
 - [websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket server
 - [mqttz](https://github.com/karlseguin/mqttz) - Allocation free, no sdlib required MQTT client
@@ -13,6 +13,7 @@ Lately, I've largely been writing Zig libraries. If you're interested in learnin
 - [cache.zig](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache
 - [smtp_client.zig](https://github.com/karlseguin/smtp_client.zig) - An SMTP client
 - [validate.zig](https://github.com/karlseguin/validate.zig) - A validation library
+- [otp.zig](https://github.com/karlseguin/otp.zig) - Library for creating & verifying TOTP codes
 - [singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression
 - [zul](https://github.com/karlseguin/zul) - zig utility library
 - [buffer.zig](https://github.com/karlseguin/buffer.zig) - A poolable string builder (aka string buffer)
