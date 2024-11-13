@@ -14,6 +14,7 @@ Lately, I've largely been writing Zig libraries. If you're interested in learnin
 - [smtp_client.zig](https://github.com/karlseguin/smtp_client.zig) - An SMTP client
 - [validate.zig](https://github.com/karlseguin/validate.zig) - A validation library
 - [otp.zig](https://github.com/karlseguin/otp.zig) - Library for creating & verifying TOTP codes
+- [localize.zig](https://github.com/karlseguin/localize.zig) - ICU message parser and renderer
 - [singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression
 - [zul](https://github.com/karlseguin/zul) - zig utility library
 - [buffer.zig](https://github.com/karlseguin/buffer.zig) - A poolable string builder (aka string buffer)
