@@ -5,6 +5,7 @@ Lately, I've largely been writing Zig libraries. If you're interested in learnin
 - [pg.zig](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
 - [websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket server
+- [ztl](https://github.com/karlseguin/ztl) - An erb-inspired templating language
 - [mqttz](https://github.com/karlseguin/mqttz) - Allocation free, no sdlib required MQTT client
 - [logz.zig](https://github.com/karlseguin/log.zig) - Structured logger
 - [metrics.zig](https://github.com/karlseguin/metrics.zig) - Prometheus metrics library
