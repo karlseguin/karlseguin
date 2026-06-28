@@ -26,10 +26,6 @@ I also have a few Elixir libraries you might find useful:
 - [exws](https://github.com/karlseguin/exws) - A minimalist Websocket server for Elixir (+ [channel library](https://github.com/karlseguin/exws_channels))
 - [dcache](https://github.com/karlseguin/dcache) - A fast caching library for Elixir
 
-And a few low-friction services:
-- [goblgobl/assets](https://github.com/goblgobl/assets) - A performance-focused static asset proxy
-- [goblgobl/authen](https://github.com/goblgobl/authen) - An authentication enhancement service
-
 My most popular repos are:
 - [ccache](https://github.com/karlseguin/ccache) - An LRU caching library for Go
 - [the-little-go-book](https://github.com/karlseguin/the-little-go-book) - The Little Go Book
