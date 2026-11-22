@@ -33,4 +33,4 @@ My most popular repos are:
 - [the-little-go-book](https://github.com/karlseguin/the-little-go-book) - The Little Go Book
 - [the-little-redis-book](https://github.com/karlseguin/the-little-redis-book) - The Little Redis Book
 
-Semi-retired, but always open to hearing about opportunities. Contact on [my blog](https://www.openmymind.net/).
+ My contact information is available on [my blog](https://www.openmymind.net/).
