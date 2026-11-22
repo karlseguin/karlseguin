@@ -1,6 +1,8 @@
 ### Hi.
 
-Lately, I've largely been writing Zig libraries. If you're interested in learning Zig, check out my [Learning Zig](https://www.openmymind.net/learning_zig/) series of blog posts.
+I work at Lightpanda, writing a [browser](https://github.com/lightpanda-io/browser/) from scratch. 
+
+I've mostly been focused on Zig for the last 3 years. But I *love* Elixir. Go's ok. If you're interested in learning Zig, check out my [Learning Zig](https://www.openmymind.net/learning_zig/) series of blog posts. AI's a useful tool, I use it as such.
 
 - [pg.zig](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver
 - [http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server
